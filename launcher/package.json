@@ -1,0 +1,41 @@
+{
+  "name": "launcher",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "4.1.11",
+    "@tauri-apps/api": "^2.6.0",
+    "@tauri-apps/plugin-dialog": "^2.3.0",
+    "@tauri-apps/plugin-notification": "^2.3.0",
+    "@tauri-apps/plugin-opener": "^2.4.0",
+    "@tauri-apps/plugin-shell": "^2.3.0",
+    "framer-motion": "^12.23.3",
+    "jwt-decode": "^4.0.0",
+    "lucide-react": "0.525.0",
+    "path": "0.12.7",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router": "7.6.3",
+    "react-router-dom": "^7.6.3",
+    "url": "0.11.4",
+    "zustand": "^5.0.6"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.6.2",
+    "@types/react": "18.3.1",
+    "@types/react-dom": "18.3.1",
+    "@vitejs/plugin-react": "^4.6.0",
+    "autoprefixer": "10.4.21",
+    "postcss": "8.5.6",
+    "tailwindcss": "4.1.11",
+    "typescript": "^5.8.3",
+    "vite": "^7.0.4"
+  }
+}
