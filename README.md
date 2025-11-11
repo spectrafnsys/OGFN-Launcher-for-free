@@ -1,6 +1,8 @@
 # Im leaking this launcher because this guy is a skid!
 
-I am not gonna help you with this launcher but here is what it should look like
+# Star the repo!!
+
+I am not gonna help you with this launcher but here is what it should look like 
 
 # Launcher
 <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/5b57a59e-2a7a-4100-9bb2-663d04454b26" />
