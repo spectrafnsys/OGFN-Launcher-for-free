@@ -1,4 +1,4 @@
-# Im leaking this launcher because this guy is a skid!
+# Im leaking this launcher because this guy is a skid! and i may have uploaded the folder wrong but it doesnt matter anymore
 
 # Star the repo!!
 
