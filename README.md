@@ -7,6 +7,10 @@ I am not gonna help you with this launcher but here is what it should look like
 # Launcher
 <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/5b57a59e-2a7a-4100-9bb2-663d04454b26" />
 
+# And his friend for trying to keep expose me with kovryn expose ( which isnt real making a doc on that later )
+
+<img width="664" height="784" alt="image" src="https://github.com/user-attachments/assets/6e5c0784-f06c-47d1-ad8b-eee7180a8345" />
+
 
 
 here are some expose pictures
